@@ -196,3 +196,11 @@ print("Jacobian Mean: ", jacobian_mean)
 print("Jacobian Std: ", jacobian_std)
 ice_value = calculate_ice(moving_image, sx_array, sy_array, sz_array)
 print("ICE: ", ice_value)
+
+sitk.WriteImage(warped_image, 'portalvenous_demons.nii')
+print('Registered Image Saved.')
+
+with open('portalvenous_demons.pkl', 'wb') as f:
+    pickle.dump(transform, f)
+
+print('Transform Saved.')
