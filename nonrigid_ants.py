@@ -58,8 +58,16 @@ def main(fixed_image_path, moving_image_path):
 
     # Extract the registered image
     moving_registered = registered_image['warpedmovout']
+    forward_displacement_field = registered_image['fwdtransforms'][-1]
     
     print("Image Registration Complete")
+
+    if save_transform_path:
+        for i, transform_path in enumerate(registered_image['fwdtransforms']):
+            ants.write_transform(transform_path, f"{save_transform_path}_fwd_transform_{i}.mat")
+        for i, transform_path in enumerate(registered_image['invtransforms']):
+            ants.write_transform(transform_path, f"{save_transform_path}_inv_transform_{i}.mat")
+        print(f"Transformations saved at {save_transform_path}")
 
     # Compute NMI
     nmi_value = normalized_mutual_information(fixed_image.numpy(), moving_registered.numpy())
@@ -75,16 +83,25 @@ def main(fixed_image_path, moving_image_path):
     displacement_field_path = registered_image['fwdtransforms'][0]
     displacement_field = ants.image_read(displacement_field_path)  # Load the transform as an image
 
-    # Compute the Jacobian determinant
-    jacobian = jacobian_determinant(displacement_field.numpy())
-    jacobian_mean, jacobian_std_dev = jacobian_statistics(jacobian)
-    print(f"Jacobian Mean: {jacobian_mean}")
-    print(f"Jacobian Std Dev: {jacobian_std_dev}")
-    if displacement_field is not None:
-        jacobian = jacobian_determinant(displacement_field.numpy())
-        jacobian_mean, jacobian_std_dev = jacobian_statistics(jacobian)
-        print(f"Jacobian Mean: {jacobian_mean}")
-        print(f"Jacobian Std Dev: {jacobian_std_dev}")
+#     # Compute the Jacobian determinant
+#     jacobian = jacobian_determinant(displacement_field.numpy())
+#     jacobian_mean, jacobian_std_dev = jacobian_statistics(jacobian)
+#     print(f"Jacobian Mean: {jacobian_mean}")
+#     print(f"Jacobian Std Dev: {jacobian_std_dev}")
+#     if displacement_field is not None:
+#         jacobian = jacobian_determinant(displacement_field.numpy())
+#         jacobian_mean, jacobian_std_dev = jacobian_statistics(jacobian)
+#         print(f"Jacobian Mean: {jacobian_mean}")
+#         print(f"Jacobian Std Dev: {jacobian_std_dev}")
+        
+    #Compute ICE
+    backward_registration = ants.registration(fixed=moving_image, moving=fixed_image, type_of_transform='SyN')
+    backward_displacement_field = backward_registration['fwdtransforms'][-1]  # Get the backward displacement field
+    
+    inverse_mapped_image = ants.apply_transforms(fixed=moving_image, moving=moving_registered, transformlist=backward_displacement_field)
+    
+    ice = np.mean((fixed_image.numpy() - inverse_mapped_image.numpy())**2)
+    print("ICE: ", ice)
 
     # ICE calculation would require forward and inverse transforms
     # For demonstration, we'll skip this unless you have actual transforms
@@ -96,5 +113,17 @@ def main(fixed_image_path, moving_image_path):
 # Example usage call
 fixed_image_path = "precontrast.nii"  # Replace with your actual image path
 moving_image_path = "arterial.nii"  # Replace with your actual image path
+
+main(fixed_image_path, moving_image_path)
+
+# Example usage call
+fixed_image_path = "precontrast.nii"  # Replace with your actual image path
+moving_image_path = "delayed.nii"  # Replace with your actual image path
+
+main(fixed_image_path, moving_image_path)
+
+# Example usage call
+fixed_image_path = "precontrast.nii"  # Replace with your actual image path
+moving_image_path = "precontrast.nii"  # Replace with your actual image path
 
 main(fixed_image_path, moving_image_path)
