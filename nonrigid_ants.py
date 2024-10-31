@@ -62,12 +62,11 @@ def main(fixed_image_path, moving_image_path):
     
     print("Image Registration Complete")
 
-    if save_transform_path:
-        for i, transform_path in enumerate(registered_image['fwdtransforms']):
-            ants.write_transform(transform_path, f"{save_transform_path}_fwd_transform_{i}.mat")
-        for i, transform_path in enumerate(registered_image['invtransforms']):
-            ants.write_transform(transform_path, f"{save_transform_path}_inv_transform_{i}.mat")
-        print(f"Transformations saved at {save_transform_path}")
+    ants.image_write(moving_registered, f"C:/Users/Mittal/Desktop/img_reg_data/ants/registered_images/{moving_image_path}_registered.nii")
+
+    for i, transform_path in enumerate(registered_image['fwdtransforms']):
+        ants.write_transform(transform_path, f"C:/Users/Mittal/Desktop/img_reg_data/ants/transforms/{moving_image_path}_transform.mat")
+    print(f"Transformations saved at {save_transform_path}")
 
     # Compute NMI
     nmi_value = normalized_mutual_information(fixed_image.numpy(), moving_registered.numpy())
@@ -100,30 +99,31 @@ def main(fixed_image_path, moving_image_path):
     
     inverse_mapped_image = ants.apply_transforms(fixed=moving_image, moving=moving_registered, transformlist=backward_displacement_field)
     
-    ice = np.mean((fixed_image.numpy() - inverse_mapped_image.numpy())**2)
+    ice_value = np.mean((fixed_image.numpy() - inverse_mapped_image.numpy())**2)
     print("ICE: ", ice)
 
-    # ICE calculation would require forward and inverse transforms
-    # For demonstration, we'll skip this unless you have actual transforms
-    # forward_transform = ...
-    # inverse_transform = ...
-    # ice_value = inverse_consistency_error(forward_transform, inverse_transform)
-    # print(f"ICE: {ice_value}")
+    f = open(f"C:/Users/Mittal/Desktop/img_reg_data/ants_metrics.txt", "a")
+    print(moving_image_path[i])
+    print("NMI: ", nmi_value, file=f)
+    print("ECC: ", ecc_value, file=f)
+    print("ICE: ", ice_value, file=f)
+    f.close()
 
-# Example usage call
-fixed_image_path = "precontrast.nii"  # Replace with your actual image path
-moving_image_path = "arterial.nii"  # Replace with your actual image path
 
-main(fixed_image_path, moving_image_path)
+fixed_image_path = 'C:/Users/Mittal/Desktop/img_reg_data/fixed/'
+moving_image_path = 'C:/Users/Mittal/Desktop/img_reg_data/moving/'
 
-# Example usage call
-fixed_image_path = "precontrast.nii"  # Replace with your actual image path
-moving_image_path = "delayed.nii"  # Replace with your actual image path
+fixed_image_paths = []
+moving_image_paths = []
 
-main(fixed_image_path, moving_image_path)
+for i in range(3):
+    fixed = sorted(os.listdir(fixed_image_path))
+    for i, image_path in enumerate(fixed):
+        fixed_image_paths.append(image_path)
 
-# Example usage call
-fixed_image_path = "precontrast.nii"  # Replace with your actual image path
-moving_image_path = "precontrast.nii"  # Replace with your actual image path
+moving = sorted(os.listdir(moving_image_path))
+for i, image_path in enumerate(moving):
+    moving_image_paths.append(image_path)
 
-main(fixed_image_path, moving_image_path)
+for i in range(len(fixed_image_paths)):
+    main(f'C:/Users/Mittal/Desktop/img_reg_data/fixed/{fixed_image_paths[i]}', f'C:/Users/Mittal/Desktop/img_reg_data/moving/{moving_image_paths[i]}')
