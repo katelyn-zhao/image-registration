@@ -54,6 +54,17 @@ def b_spline_registration(fixed_image_path, moving_image_path):
 
     print("Registration completed.")
 
+    file_name = os.path.basename(moving_image_path).split('.')[0]
+
+    output_image_path = f'C:/Users/Mittal/Desktop/img_reg_data/bspline/registered_images/{file_name}_registered.nii'
+    output_transform_path = f'C:/Users/Mittal/Desktop/img_reg_data/bspline/transforms/{file_name}_transform.tfm'
+
+    sitk.WriteImage(moving_resampled, output_image_path)
+    sitk.WriteTransform(final_transform, output_transform_path)
+
+    print(f"Registered image saved to: {output_image_path}")
+    print(f"Transform saved to: {output_transform_path}")
+
     return fixed_image, moving_image, moving_resampled, final_transform
 
 def calculate_nmi(image1, image2):
