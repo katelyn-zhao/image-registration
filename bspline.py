@@ -145,6 +145,47 @@ def calculate_ice(fixed_image, moving_image, final_transform):
 
     return ice
 
+fixed_image_path = 'C:/Users/Mittal/Desktop/img_reg_data/registered fixed/'
+moving_image_path = 'C:/Users/Mittal/Desktop/img_reg_data/new moving/'
+
+fixed_image_paths = []
+moving_image_paths = []
+
+for i in range(3):
+    fixed = sorted(os.listdir(fixed_image_path))
+    for i, image_path in enumerate(fixed):
+        fixed_image_paths.append(image_path)
+
+moving = sorted(os.listdir(moving_image_path))
+for i, image_path in enumerate(moving):
+    moving_image_paths.append(image_path)
+
+for i in range(len(fixed_image_paths)):
+    print(fixed_image_paths[i])
+    print(moving_image_paths[i])
+    fixed_image, moving_image, moving_resampled, transform = b_spline_registration(f'C:/Users/Mittal/Desktop/img_reg_data/registered fixed/{fixed_image_paths[i]}',f'C:/Users/Mittal/Desktop/img_reg_data/new moving/{moving_image_paths[i]}')
+
+    nmi_value = calculate_nmi(fixed_image, moving_resampled)
+    print("NMI: ", nmi_value)
+    ecc_value = calculate_ecc(fixed_image, moving_resampled)
+    print("ECC: ", ecc_value)
+    # displacement_field = compute_displacement_field(transform, fixed_image)
+    # jacobian = jacobian_determinant(displacement_field)
+    # jacobian_mean, jacobian_std = jacobian_statistics(jacobian)
+    # print("Jacobian Mean: ", jacobian_mean)
+    # print("Jacobian Std: ", jacobian_std)
+    ice_value = calculate_ice(fixed_image, moving_image, transform)
+    print("ICE: ", ice_value)
+
+    f = open(f"C:/Users/Mittal/Desktop/img_reg_data/bspline_metrics.txt", "a")
+    print(moving_image_paths[i], file=f)
+    print("NMI: ", nmi_value, file=f)
+    print("ECC: ", ecc_value, file=f)
+    # print("Jacobian Mean: ", jacobian_mean, file=f)
+    # print("Jacobian Std: ", jacobian_std, file=f)
+    print("ICE: ", ice_value, file=f)
+    f.close()
+
 # Example usage
 fixed_image_path = 'C:/Users/Mittal/Desktop/img_reg_data/precontrast.nii'
 moving_image_path = 'C:/Users/Mittal/Desktop/img_reg_data/arterial.nii'
