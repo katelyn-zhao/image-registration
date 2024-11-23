@@ -1,0 +1,312 @@
+C:/Users/Mittal/Desktop/img_reg_data/new_patients/moving/arterial_23-TR-0018_posttreatment.nii
+NMI:  1.375749386182773
+ECC:  0.546246852743067
+ICE:  5.6148095
+C:/Users/Mittal/Desktop/img_reg_data/new_patients/moving/arterial_23-TR-0018_pretreatment.nii
+NMI:  1.0149269441562938
+ECC:  0.029414815011542625
+ICE:  13.8557205
+C:/Users/Mittal/Desktop/img_reg_data/new_patients/moving/arterial_23-TR-0053_posttreatment.nii
+NMI:  1.3237681746140784
+ECC:  0.4891614420454963
+ICE:  8.546028
+C:/Users/Mittal/Desktop/img_reg_data/new_patients/moving/arterial_23-TR-0053_pretreatment.nii
+NMI:  1.2918260649318845
+ECC:  0.45180395852637006
+ICE:  6.202621
+C:/Users/Mittal/Desktop/img_reg_data/new_patients/moving/arterial_23-TR-0069_posttreatment.nii
+NMI:  1.2201129779526378
+ECC:  0.36080753492515055
+ICE:  3.4311512
+C:/Users/Mittal/Desktop/img_reg_data/new_patients/moving/arterial_23-TR-0069_pretreatment.nii
+NMI:  1.3099800761382396
+ECC:  0.47325922246397284
+ICE:  8.319094
+C:/Users/Mittal/Desktop/img_reg_data/new_patients/moving/arterial_23-TR-0092_posttreatment.nii
+NMI:  1.3272453436477716
+ECC:  0.49311959573107667
+ICE:  2.7540894
+C:/Users/Mittal/Desktop/img_reg_data/new_patients/moving/arterial_23-TR-0092_pretreatment.nii
+NMI:  1.3549393769094715
+ECC:  0.523919199571962
+ICE:  1.2069513
+C:/Users/Mittal/Desktop/img_reg_data/new_patients/moving/arterial_23-TR-0103_posttreatment.nii
+NMI:  1.2851921533576494
+ECC:  0.4438124721078728
+ICE:  8.175346
+C:/Users/Mittal/Desktop/img_reg_data/new_patients/moving/arterial_23-TR-0103_pretreatment.nii
+NMI:  1.3182200954965178
+ECC:  0.48280267700919505
+ICE:  9.55067
+C:/Users/Mittal/Desktop/img_reg_data/new_patients/moving/arterial_23-TR-0119_posttreatment.nii
+NMI:  1.2457001319769423
+ECC:  0.3944771709817723
+ICE:  13.015884
+C:/Users/Mittal/Desktop/img_reg_data/new_patients/moving/arterial_23-TR-0119_pretreatment.nii
+NMI:  1.3080812345346144
+ECC:  0.4710429695052124
+ICE:  10.716944
+C:/Users/Mittal/Desktop/img_reg_data/new_patients/moving/arterial_23-TR-0131_posttreatment.nii
+NMI:  1.3498760494077688
+ECC:  0.518382483430638
+ICE:  12.109958
+C:/Users/Mittal/Desktop/img_reg_data/new_patients/moving/arterial_23-TR-0131_pretreatment.nii
+NMI:  1.0150310176241104
+ECC:  0.02961686364874567
+ICE:  4.658545
+C:/Users/Mittal/Desktop/img_reg_data/new_patients/moving/arterial_23-TR-0139_posttreatment.nii
+NMI:  1.0548933489972734
+ECC:  0.10407374176631635
+ICE:  14.64227
+C:/Users/Mittal/Desktop/img_reg_data/new_patients/moving/arterial_23-TR-0139_pretreatment.nii
+NMI:  1.273675284416472
+ECC:  0.42974106157968683
+ICE:  4.5498824
+C:/Users/Mittal/Desktop/img_reg_data/new_patients/moving/arterial_23-TR-0240_posttreatment.nii
+NMI:  1.3161592083373606
+ECC:  0.4804269974857357
+ICE:  7.252011
+C:/Users/Mittal/Desktop/img_reg_data/new_patients/moving/arterial_23-TR-0240_pretreatment.nii
+NMI:  1.225924195615789
+ECC:  0.3685777577826595
+ICE:  9.486604
+C:/Users/Mittal/Desktop/img_reg_data/new_patients/moving/arterial_23-TR-0262_posttreatment.nii
+NMI:  1.3543954992624831
+ECC:  0.5233264573833334
+ICE:  4.221698
+C:/Users/Mittal/Desktop/img_reg_data/new_patients/moving/arterial_23-TR-0262_pretreatment.nii
+NMI:  1.4017639955299646
+ECC:  0.5732263017328674
+ICE:  5.205933
+C:/Users/Mittal/Desktop/img_reg_data/new_patients/moving/arterial_23-TR-0267_posttreatment.nii
+NMI:  1.2335862194540863
+ECC:  0.37871081205407436
+ICE:  7.110368
+C:/Users/Mittal/Desktop/img_reg_data/new_patients/moving/arterial_23-TR-0267_pretreatment.nii
+NMI:  1.3680118454075503
+ECC:  0.5380243550419175
+ICE:  2.0876095
+C:/Users/Mittal/Desktop/img_reg_data/new_patients/moving/arterial_23-TR-0281_posttreatment.nii
+NMI:  1.223734010705524
+ECC:  0.3656579105397808
+ICE:  3.67912
+C:/Users/Mittal/Desktop/img_reg_data/new_patients/moving/arterial_23-TR-0281_pretreatment.nii
+NMI:  1.3028361861343085
+ECC:  0.4648875881055537
+ICE:  5.894356
+C:/Users/Mittal/Desktop/img_reg_data/new_patients/moving/arterial_23-TR-0331_posttreatment.nii
+NMI:  1.3090054198191878
+ECC:  0.472122445240709
+ICE:  10.190633
+C:/Users/Mittal/Desktop/img_reg_data/new_patients/moving/arterial_23-TR-0331_pretreatment.nii
+NMI:  1.250095111993262
+ECC:  0.40012173408867785
+ICE:  15.491244
+C:/Users/Mittal/Desktop/img_reg_data/new_patients/moving/delayed_23-TR-0018_posttreatment.nii
+NMI:  1.2327587608941133
+ECC:  0.3776225621390751
+ICE:  8.880866
+C:/Users/Mittal/Desktop/img_reg_data/new_patients/moving/delayed_23-TR-0018_pretreatment.nii
+NMI:  1.2001816758920842
+ECC:  0.3335856227654716
+ICE:  12.051549
+C:/Users/Mittal/Desktop/img_reg_data/new_patients/moving/delayed_23-TR-0053_posttreatment.nii
+NMI:  1.3270335192616878
+ECC:  0.4928790637385513
+ICE:  7.7673454
+C:/Users/Mittal/Desktop/img_reg_data/new_patients/moving/delayed_23-TR-0053_pretreatment.nii
+NMI:  1.3038155972400416
+ECC:  0.466040746687136
+ICE:  6.164201
+C:/Users/Mittal/Desktop/img_reg_data/new_patients/moving/delayed_23-TR-0069_posttreatment.nii
+NMI:  1.2355595642335153
+ECC:  0.3813002157927461
+ICE:  5.0108924
+C:/Users/Mittal/Desktop/img_reg_data/new_patients/moving/delayed_23-TR-0069_pretreatment.nii
+NMI:  1.2921893692748794
+ECC:  0.45223924019564316
+ICE:  11.214817
+C:/Users/Mittal/Desktop/img_reg_data/new_patients/moving/delayed_23-TR-0092_posttreatment.nii
+NMI:  1.312297819854498
+ECC:  0.4759557093360471
+ICE:  3.996693
+C:/Users/Mittal/Desktop/img_reg_data/new_patients/moving/delayed_23-TR-0092_pretreatment.nii
+NMI:  1.3583523202434256
+ECC:  0.5276279429172052
+ICE:  2.1232443
+C:/Users/Mittal/Desktop/img_reg_data/new_patients/moving/delayed_23-TR-0103_posttreatment.nii
+NMI:  1.307912237002093
+ECC:  0.4708454104043989
+ICE:  5.7045617
+C:/Users/Mittal/Desktop/img_reg_data/new_patients/moving/delayed_23-TR-0103_pretreatment.nii
+NMI:  1.2957661709441015
+ECC:  0.4565116416468951
+ICE:  9.828509
+C:/Users/Mittal/Desktop/img_reg_data/new_patients/moving/delayed_23-TR-0119_posttreatment.nii
+NMI:  1.2534344547949527
+ECC:  0.40438405666200006
+ICE:  15.370534
+C:/Users/Mittal/Desktop/img_reg_data/new_patients/moving/delayed_23-TR-0119_pretreatment.nii
+NMI:  1.276158552476013
+ECC:  0.43279661753660315
+ICE:  10.479262
+C:/Users/Mittal/Desktop/img_reg_data/new_patients/moving/delayed_23-TR-0131_posttreatment.nii
+NMI:  1.3004860709630066
+ECC:  0.46211347844809675
+ICE:  11.714204
+C:/Users/Mittal/Desktop/img_reg_data/new_patients/moving/delayed_23-TR-0131_pretreatment.nii
+NMI:  1.1506008615066265
+ECC:  0.26177776593948654
+ICE:  8.2089205
+C:/Users/Mittal/Desktop/img_reg_data/new_patients/moving/delayed_23-TR-0139_posttreatment.nii
+NMI:  1.231302379157139
+ECC:  0.37570361768564414
+ICE:  3.413124
+C:/Users/Mittal/Desktop/img_reg_data/new_patients/moving/delayed_23-TR-0139_pretreatment.nii
+NMI:  1.187007427129702
+ECC:  0.31509057627702297
+ICE:  8.032461
+C:/Users/Mittal/Desktop/img_reg_data/new_patients/moving/delayed_23-TR-0240_posttreatment.nii
+NMI:  1.294463960784185
+ECC:  0.4549589169030229
+ICE:  7.4107103
+C:/Users/Mittal/Desktop/img_reg_data/new_patients/moving/delayed_23-TR-0240_pretreatment.nii
+NMI:  1.2171407959258258
+ECC:  0.35680472900533455
+ICE:  10.35007
+C:/Users/Mittal/Desktop/img_reg_data/new_patients/moving/delayed_23-TR-0262_posttreatment.nii
+NMI:  1.3013685729702675
+ECC:  0.46315637126908393
+ICE:  5.9589567
+C:/Users/Mittal/Desktop/img_reg_data/new_patients/moving/delayed_23-TR-0262_pretreatment.nii
+NMI:  1.3514378264044642
+ECC:  0.5200947014180796
+ICE:  6.090498
+C:/Users/Mittal/Desktop/img_reg_data/new_patients/moving/delayed_23-TR-0267_postreatment.nii
+NMI:  1.2705536042471333
+ECC:  0.42588302192484
+ICE:  6.6551456
+C:/Users/Mittal/Desktop/img_reg_data/new_patients/moving/delayed_23-TR-0267_pretreatment.nii
+NMI:  1.1779768153439782
+ECC:  0.3021737151796279
+ICE:  8.113237
+C:/Users/Mittal/Desktop/img_reg_data/new_patients/moving/delayed_23-TR-0281_posttreatment.nii
+NMI:  1.2517318493838878
+ECC:  0.40221370017514885
+ICE:  6.0757017
+C:/Users/Mittal/Desktop/img_reg_data/new_patients/moving/delayed_23-TR-0281_pretreatment.nii
+NMI:  1.189429056912271
+ECC:  0.31852098418383057
+ICE:  8.831029
+C:/Users/Mittal/Desktop/img_reg_data/new_patients/moving/delayed_23-TR-0331_posttreatment.nii
+NMI:  1.2955741321287213
+ECC:  0.45628285529763063
+ICE:  9.577659
+C:/Users/Mittal/Desktop/img_reg_data/new_patients/moving/delayed_23-TR-0331_pretreatment.nii
+NMI:  1.2468799592687252
+ECC:  0.3959963546346776
+ICE:  8.194521
+C:/Users/Mittal/Desktop/img_reg_data/new_patients/moving/portalvenous_23-TR-0018_posttreatment.nii
+NMI:  1.258711135213608
+ECC:  0.41107308575561896
+ICE:  6.304461
+C:/Users/Mittal/Desktop/img_reg_data/new_patients/moving/portalvenous_23-TR-0018_pretreatment.nii
+NMI:  1.204541662027918
+ECC:  0.33961741378635224
+ICE:  12.660563
+C:/Users/Mittal/Desktop/img_reg_data/new_patients/moving/portalvenous_23-TR-0053_posttreatment.nii
+NMI:  1.3324796690789764
+ECC:  0.499039012443304
+ICE:  8.515026
+C:/Users/Mittal/Desktop/img_reg_data/new_patients/moving/portalvenous_23-TR-0053_pretreatment.nii
+NMI:  1.2868817589977664
+ECC:  0.44585566155074285
+ICE:  6.0200152
+C:/Users/Mittal/Desktop/img_reg_data/new_patients/moving/portalvenous_23-TR-0069_posttreatment.nii
+NMI:  1.2790621799666135
+ECC:  0.4363543607768899
+ICE:  4.6324997
+C:/Users/Mittal/Desktop/img_reg_data/new_patients/moving/portalvenous_23-TR-0069_pretreatment.nii
+NMI:  1.312233082863593
+ECC:  0.475880522966589
+ICE:  7.728834
+C:/Users/Mittal/Desktop/img_reg_data/new_patients/moving/portalvenous_23-TR-0092_posttreatment.nii
+NMI:  1.3217702615069005
+ECC:  0.4868777440038064
+ICE:  3.3765044
+C:/Users/Mittal/Desktop/img_reg_data/new_patients/moving/portalvenous_23-TR-0092_pretreatment.nii
+NMI:  1.367871249631191
+ECC:  0.5378740868051397
+ICE:  2.0471392
+C:/Users/Mittal/Desktop/img_reg_data/new_patients/moving/portalvenous_23-TR-0103_posttreatment.nii
+NMI:  1.304265946488713
+ECC:  0.46657040660740134
+ICE:  6.8031435
+C:/Users/Mittal/Desktop/img_reg_data/new_patients/moving/portalvenous_23-TR-0103_pretreatment.nii
+NMI:  1.2989255451802348
+ECC:  0.46026586556777116
+ICE:  9.481687
+C:/Users/Mittal/Desktop/img_reg_data/new_patients/moving/portalvenous_23-TR-0119_posttreatment.nii
+NMI:  1.247121438952931
+ECC:  0.3963069372945933
+ICE:  12.733894
+C:/Users/Mittal/Desktop/img_reg_data/new_patients/moving/portalvenous_23-TR-0119_pretreatment.nii
+NMI:  1.296209673541871
+ECC:  0.45703975149712184
+ICE:  10.468162
+C:/Users/Mittal/Desktop/img_reg_data/new_patients/moving/portalvenous_23-TR-0131_posttreatment.nii
+NMI:  1.3099090770772521
+ECC:  0.4731764707955759
+ICE:  12.337533
+C:/Users/Mittal/Desktop/img_reg_data/new_patients/moving/portalvenous_23-TR-0131_pretreatment.nii
+NMI:  1.1037018753187398
+ECC:  0.18791646120704766
+ICE:  7.872359
+C:/Users/Mittal/Desktop/img_reg_data/new_patients/moving/portalvenous_23-TR-0139_posttreatment.nii
+NMI:  1.1306461657259015
+ECC:  0.23110000225760033
+ICE:  10.8806
+C:/Users/Mittal/Desktop/img_reg_data/new_patients/moving/portalvenous_23-TR-0139_pretreatment.nii
+NMI:  1.1823481642086218
+ECC:  0.3084508772095443
+ICE:  7.7743254
+C:/Users/Mittal/Desktop/img_reg_data/new_patients/moving/portalvenous_23-TR-0240_posttreatment.nii
+NMI:  1.2935975416930252
+ECC:  0.4539240872532468
+ICE:  8.117989
+C:/Users/Mittal/Desktop/img_reg_data/new_patients/moving/portalvenous_23-TR-0240_pretreatment.nii
+NMI:  1.3259194822102225
+ECC:  0.49161278129337943
+ICE:  5.718494
+C:/Users/Mittal/Desktop/img_reg_data/new_patients/moving/portalvenous_23-TR-0262_posttreatment.nii
+NMI:  1.2884115890019148
+ECC:  0.44770101645132915
+ICE:  6.599589
+C:/Users/Mittal/Desktop/img_reg_data/new_patients/moving/portalvenous_23-TR-0262_pretreatment.nii
+NMI:  1.368849879388169
+ECC:  0.5389194022547348
+ICE:  12.173475
+C:/Users/Mittal/Desktop/img_reg_data/new_patients/moving/portalvenous_23-TR-0267_posttreatment.nii
+NMI:  1.2287836011430628
+ECC:  0.37237411197584236
+ICE:  7.4185824
+C:/Users/Mittal/Desktop/img_reg_data/new_patients/moving/portalvenous_23-TR-0267_pretreatment.nii
+NMI:  1.253927032171011
+ECC:  0.4050108589354988
+ICE:  6.8754926
+C:/Users/Mittal/Desktop/img_reg_data/new_patients/moving/portalvenous_23-TR-0281_posttreatment.nii
+NMI:  1.2562732024471976
+ECC:  0.4079896028156646
+ICE:  4.754588
+C:/Users/Mittal/Desktop/img_reg_data/new_patients/moving/portalvenous_23-TR-0281_pretreatment.nii
+NMI:  1.201916639682744
+ECC:  0.3359910879277646
+ICE:  8.443659
+C:/Users/Mittal/Desktop/img_reg_data/new_patients/moving/portalvenous_23-TR-0331_posttreatment.nii
+NMI:  1.281439860813982
+ECC:  0.43925566765998525
+ICE:  17.468405
+C:/Users/Mittal/Desktop/img_reg_data/new_patients/moving/portalvenous_23-TR-0331_pretreatment.nii
+NMI:  1.233212615035933
+ECC:  0.3782196390022133
+ICE:  8.33846
