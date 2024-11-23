@@ -1,0 +1,195 @@
+C:/Users/User/Desktop/img_reg_data/new_patients/new_moving/arterial_23-TR-0018_posttreatment.nii
+NMI(Custom):  2.123099348792108
+NMI(Skimage):  1.1822150373299598
+ECC:  0.3549497020670538
+ICE:  40291.582
+C:/Users/User/Desktop/img_reg_data/new_patients/new_moving/arterial_23-TR-0053_posttreatment.nii
+NMI(Custom):  2.1328296101929354
+NMI(Skimage):  1.1389290760191315
+ECC:  0.3314339147150764
+ICE:  86816.05
+C:/Users/User/Desktop/img_reg_data/new_patients/new_moving/arterial_23-TR-0069_posttreatment.nii
+NMI(Custom):  2.2037095982015327
+NMI(Skimage):  1.1401245874697066
+ECC:  0.28232342702509866
+ICE:  108228.805
+C:/Users/User/Desktop/img_reg_data/new_patients/new_moving/arterial_23-TR-0092_posttreatment.nii
+NMI(Custom):  2.1220090423090467
+NMI(Skimage):  1.1912246235669377
+ECC:  0.36849565463041367
+ICE:  40486.39
+C:/Users/User/Desktop/img_reg_data/new_patients/new_moving/arterial_23-TR-0103_posttreatment.nii
+NMI(Custom):  2.136292480991542
+NMI(Skimage):  1.20010850466909
+ECC:  0.38121719482330996
+ICE:  47676.156
+C:/Users/User/Desktop/img_reg_data/new_patients/new_moving/arterial_23-TR-0119_posttreatment.nii
+NMI(Custom):  2.1134931976375917
+NMI(Skimage):  1.1808964215848419
+ECC:  0.4374854840406819
+ICE:  32650.803
+C:/Users/User/Desktop/img_reg_data/new_patients/new_moving/arterial_23-TR-0131_posttreatment.nii
+NMI(Custom):  2.1090299074309713
+NMI(Skimage):  1.134592979265757
+ECC:  0.2577852757317294
+ICE:  59160.01
+C:/Users/User/Desktop/img_reg_data/new_patients/new_moving/arterial_23-TR-0139_posttreatment.nii
+NMI(Custom):  2.1251622113599704
+NMI(Skimage):  1.1610134543133481
+ECC:  0.3192340603166477
+ICE:  40631.277
+C:/Users/User/Desktop/img_reg_data/new_patients/new_moving/arterial_23-TR-0240_posttreatment.nii
+NMI(Custom):  2.1049342273057694
+NMI(Skimage):  1.178621560828196
+ECC:  0.3837060495892618
+ICE:  62532.78
+C:/Users/User/Desktop/img_reg_data/new_patients/new_moving/arterial_23-TR-0262_posttreatment.nii
+NMI(Custom):  2.153554452850178
+NMI(Skimage):  1.1225165853124202
+ECC:  0.2678448082800501
+ICE:  192874.8
+C:/Users/User/Desktop/img_reg_data/new_patients/new_moving/arterial_23-TR-0267_posttreatment.nii
+NMI(Custom):  2.1537294604750543
+NMI(Skimage):  1.1345769876142544
+ECC:  0.28450564832919334
+ICE:  66929.75
+C:/Users/User/Desktop/img_reg_data/new_patients/new_moving/arterial_23-TR-0281_posttreatment.nii
+NMI(Custom):  2.144794776797624
+NMI(Skimage):  1.1444726263092253
+ECC:  0.29661883845666936
+ICE:  35728.586
+C:/Users/User/Desktop/img_reg_data/new_patients/new_moving/arterial_23-TR-0331_posttreatment.nii
+NMI(Custom):  2.1584303525604973
+NMI(Skimage):  1.1883256753209266
+ECC:  0.3911118991501226
+ICE:  60069.777
+C:/Users/User/Desktop/img_reg_data/new_patients/new_moving/delayed_23-TR-0018_posttreatment.nii
+NMI(Custom):  2.1132953681698314
+NMI(Skimage):  1.1698397670755234
+ECC:  0.37017036961792626
+ICE:  39115.734
+C:/Users/User/Desktop/img_reg_data/new_patients/new_moving/delayed_23-TR-0053_posttreatment.nii
+NMI(Custom):  2.170639335216291
+NMI(Skimage):  1.1392616740762325
+ECC:  0.31067279362913536
+ICE:  82704.125
+C:/Users/User/Desktop/img_reg_data/new_patients/new_moving/delayed_23-TR-0069_posttreatment.nii
+NMI(Custom):  2.2152499749962264
+NMI(Skimage):  1.150853159421127
+ECC:  0.30074729262597066
+ICE:  107440.66
+C:/Users/User/Desktop/img_reg_data/new_patients/new_moving/delayed_23-TR-0092_posttreatment.nii
+NMI(Custom):  2.1432063769946956
+NMI(Skimage):  1.2081370320948472
+ECC:  0.39566598335182773
+ICE:  33056.984
+C:/Users/User/Desktop/img_reg_data/new_patients/new_moving/delayed_23-TR-0103_posttreatment.nii
+NMI(Custom):  2.1542285910530197
+NMI(Skimage):  1.2167622507873408
+ECC:  0.4124659788922219
+ICE:  38912.21
+C:/Users/User/Desktop/img_reg_data/new_patients/new_moving/delayed_23-TR-0119_posttreatment.nii
+NMI(Custom):  2.1121226466228165
+NMI(Skimage):  1.1760238152514846
+ECC:  0.4164942093094031
+ICE:  48500.04
+C:/Users/User/Desktop/img_reg_data/new_patients/new_moving/delayed_23-TR-0131_posttreatment.nii
+NMI(Custom):  2.155501044429564
+NMI(Skimage):  1.1518442336320973
+ECC:  0.328448526143376
+ICE:  82248.195
+C:/Users/User/Desktop/img_reg_data/new_patients/new_moving/delayed_23-TR-0139_posttreatment.nii
+NMI(Custom):  2.148857298482615
+NMI(Skimage):  1.1823768771122558
+ECC:  0.3545589378795336
+ICE:  73643.72
+C:/Users/User/Desktop/img_reg_data/new_patients/new_moving/delayed_23-TR-0240_posttreatment.nii
+NMI(Custom):  2.1340727713787775
+NMI(Skimage):  1.1867444123527537
+ECC:  0.3913992338873429
+ICE:  63069.133
+C:/Users/User/Desktop/img_reg_data/new_patients/new_moving/delayed_23-TR-0262_posttreatment.nii
+NMI(Custom):  2.167608058271565
+NMI(Skimage):  1.1294084529697297
+ECC:  0.2871237538895849
+ICE:  201069.25
+C:/Users/User/Desktop/img_reg_data/new_patients/new_moving/delayed_23-TR-0267_postreatment.nii
+NMI(Custom):  2.1666099415156936
+NMI(Skimage):  1.1597478443663252
+ECC:  0.3033092372187304
+ICE:  58194.465
+C:/Users/User/Desktop/img_reg_data/new_patients/new_moving/delayed_23-TR-0281_posttreatment.nii
+NMI(Custom):  2.1775029841401707
+NMI(Skimage):  1.1389452075052453
+ECC:  0.299828375233467
+ICE:  39172.89
+C:/Users/User/Desktop/img_reg_data/new_patients/new_moving/delayed_23-TR-0331_posttreatment.nii
+NMI(Custom):  2.1648547063343506
+NMI(Skimage):  1.211122082512935
+ECC:  0.4269756613714389
+ICE:  54364.91
+C:/Users/User/Desktop/img_reg_data/new_patients/new_moving/portalvenous_23-TR-0018_posttreatment.nii
+NMI(Custom):  2.120035807516952
+NMI(Skimage):  1.1636437000537043
+ECC:  0.36449241391191545
+ICE:  38164.797
+C:/Users/User/Desktop/img_reg_data/new_patients/new_moving/portalvenous_23-TR-0053_posttreatment.nii
+NMI(Custom):  2.1568871810809536
+NMI(Skimage):  1.1460993772612318
+ECC:  0.32877739171432563
+ICE:  85006.21
+C:/Users/User/Desktop/img_reg_data/new_patients/new_moving/portalvenous_23-TR-0069_posttreatment.nii
+NMI(Custom):  2.2317381301171566
+NMI(Skimage):  1.1409041385401808
+ECC:  0.28408522219229787
+ICE:  109485.84
+C:/Users/User/Desktop/img_reg_data/new_patients/new_moving/portalvenous_23-TR-0092_posttreatment.nii
+NMI(Custom):  2.144986683069225
+NMI(Skimage):  1.2057999410019091
+ECC:  0.3883918826211593
+ICE:  36475.145
+C:/Users/User/Desktop/img_reg_data/new_patients/new_moving/portalvenous_23-TR-0103_posttreatment.nii
+NMI(Custom):  2.1560221937316455
+NMI(Skimage):  1.2127970798935046
+ECC:  0.40163847504732797
+ICE:  43044.27
+C:/Users/User/Desktop/img_reg_data/new_patients/new_moving/portalvenous_23-TR-0119_posttreatment.nii
+NMI(Custom):  2.1223897040414164
+NMI(Skimage):  1.1626574868302404
+ECC:  0.39857396572153386
+ICE:  44517.414
+C:/Users/User/Desktop/img_reg_data/new_patients/new_moving/portalvenous_23-TR-0131_posttreatment.nii
+NMI(Custom):  2.143950555253519
+NMI(Skimage):  1.1559300262197332
+ECC:  0.33625292075778757
+ICE:  90666.01
+C:/Users/User/Desktop/img_reg_data/new_patients/new_moving/portalvenous_23-TR-0139_posttreatment.nii
+NMI(Custom):  2.1435733022208128
+NMI(Skimage):  1.176861770991824
+ECC:  0.31951632464988955
+ICE:  84677.65
+C:/Users/User/Desktop/img_reg_data/new_patients/new_moving/portalvenous_23-TR-0240_posttreatment.nii
+NMI(Custom):  2.132332391991665
+NMI(Skimage):  1.1965668490244523
+ECC:  0.3955110755732985
+ICE:  59256.42
+C:/Users/User/Desktop/img_reg_data/new_patients/new_moving/portalvenous_23-TR-0262_posttreatment.nii
+NMI(Custom):  2.1558275616586053
+NMI(Skimage):  1.1278749219004995
+ECC:  0.2792804660957785
+ICE:  198403.55
+C:/Users/User/Desktop/img_reg_data/new_patients/new_moving/portalvenous_23-TR-0267_posttreatment.nii
+NMI(Custom):  2.178240486393425
+NMI(Skimage):  1.145792865776702
+ECC:  0.2861133803640569
+ICE:  70578.02
+C:/Users/User/Desktop/img_reg_data/new_patients/new_moving/portalvenous_23-TR-0281_posttreatment.nii
+NMI(Custom):  2.171613304981083
+NMI(Skimage):  1.1434796213561855
+ECC:  0.3075707757804581
+ICE:  44227.535
+C:/Users/User/Desktop/img_reg_data/new_patients/new_moving/portalvenous_23-TR-0331_posttreatment.nii
+NMI(Custom):  2.1558129865921156
+NMI(Skimage):  1.2193049243002987
+ECC:  0.4326974084204593
+ICE:  62296.363
