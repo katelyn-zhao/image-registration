@@ -1,0 +1,228 @@
+Fixed Image: registered_rigid_precontrast_23-TR-0018_pretreatment_to_arterial_23-TR-0018_pretreatment.nii
+Moving Image: arterial_23-TR-0018_posttreatment.nii
+NMI: 1.0831
+ECC: 0.3615
+ICE: 0.0612
+------------------------------
+Fixed Image: registered_rigid_precontrast_23-TR-0018_pretreatment_to_delayed_23-TR-0018_pretreatment.nii
+Moving Image: delayed_23-TR-0018_posttreatment.nii
+NMI: 1.0610
+ECC: 0.4697
+ICE: 0.0708
+------------------------------
+Fixed Image: registered_rigid_precontrast_23-TR-0018_pretreatment_to_portalvenous_23-TR-0018_pretreatment.nii
+Moving Image: portalvenous_23-TR-0018_posttreatment.nii
+NMI: 1.0581
+ECC: 0.4513
+ICE: 0.0867
+------------------------------
+Fixed Image: registered_rigid_precontrast_23-TR-0053_pretreatment_to_arterial_23-TR-0053_pretreatment.nii
+Moving Image: arterial_23-TR-0053_posttreatment.nii
+NMI: 1.0578
+ECC: 0.6686
+ICE: 0.1030
+------------------------------
+Fixed Image: registered_rigid_precontrast_23-TR-0053_pretreatment_to_delayed_23-TR-0053_pretreatment.nii
+Moving Image: delayed_23-TR-0053_posttreatment.nii
+NMI: 1.0686
+ECC: 0.7093
+ICE: 0.1119
+------------------------------
+Fixed Image: registered_rigid_precontrast_23-TR-0053_pretreatment_to_portalvenous_23-TR-0053_pretreatment.nii
+Moving Image: portalvenous_23-TR-0053_posttreatment.nii
+NMI: 1.0702
+ECC: 0.7195
+ICE: 0.1111
+------------------------------
+Fixed Image: registered_rigid_precontrast_23-TR-0069_pretreatment_to_arterial_23-TR-0069_pretreatment.nii
+Moving Image: arterial_23-TR-0069_posttreatment.nii
+NMI: 1.0952
+ECC: 0.7010
+ICE: 0.0622
+------------------------------
+Fixed Image: registered_rigid_precontrast_23-TR-0069_pretreatment_to_delayed_23-TR-0069_pretreatment.nii
+Moving Image: delayed_23-TR-0069_posttreatment.nii
+NMI: 1.1114
+ECC: 0.7398
+ICE: 0.0460
+------------------------------
+Fixed Image: registered_rigid_precontrast_23-TR-0069_pretreatment_to_portalvenous_23-TR-0069_pretreatment.nii
+Moving Image: portalvenous_23-TR-0069_posttreatment.nii
+NMI: 1.1023
+ECC: 0.7110
+ICE: 0.0735
+------------------------------
+Fixed Image: registered_rigid_precontrast_23-TR-0092_pretreatment_to_arterial_23-TR-0092_pretreatment.nii
+Moving Image: arterial_23-TR-0092_posttreatment.nii
+NMI: 1.0468
+ECC: 0.5324
+ICE: 0.1282
+------------------------------
+Fixed Image: registered_rigid_precontrast_23-TR-0092_pretreatment_to_delayed_23-TR-0092_pretreatment.nii
+Moving Image: delayed_23-TR-0092_posttreatment.nii
+NMI: 1.1496
+ECC: 0.7847
+ICE: 0.1447
+------------------------------
+Fixed Image: registered_rigid_precontrast_23-TR-0092_pretreatment_to_portalvenous_23-TR-0092_pretreatment.nii
+Moving Image: portalvenous_23-TR-0092_posttreatment.nii
+NMI: 1.1478
+ECC: 0.7853
+ICE: 0.1615
+------------------------------
+Fixed Image: registered_rigid_precontrast_23-TR-0103_pretreatment_to_arterial_23-TR-0103_pretreatment.nii
+Moving Image: arterial_23-TR-0103_posttreatment.nii
+NMI: 1.1314
+ECC: 0.7259
+ICE: 0.0737
+------------------------------
+Fixed Image: registered_rigid_precontrast_23-TR-0103_pretreatment_to_delayed_23-TR-0103_pretreatment.nii
+Moving Image: delayed_23-TR-0103_posttreatment.nii
+NMI: 1.1329
+ECC: 0.7258
+ICE: 0.0761
+------------------------------
+Fixed Image: registered_rigid_precontrast_23-TR-0103_pretreatment_to_portalvenous_23-TR-0103_pretreatment.nii
+Moving Image: portalvenous_23-TR-0103_posttreatment.nii
+NMI: 1.1331
+ECC: 0.7368
+ICE: 0.0781
+------------------------------
+Fixed Image: registered_rigid_precontrast_23-TR-0119_pretreatment_to_arterial_23-TR-0119_pretreatment.nii
+Moving Image: arterial_23-TR-0119_posttreatment.nii
+NMI: 1.1157
+ECC: 0.7480
+ICE: 0.0397
+------------------------------
+Fixed Image: registered_rigid_precontrast_23-TR-0119_pretreatment_to_delayed_23-TR-0119_pretreatment.nii
+Moving Image: delayed_23-TR-0119_posttreatment.nii
+NMI: 1.1129
+ECC: 0.7827
+ICE: 0.0415
+------------------------------
+Fixed Image: registered_rigid_precontrast_23-TR-0119_pretreatment_to_portalvenous_23-TR-0119_pretreatment.nii
+Moving Image: portalvenous_23-TR-0119_posttreatment.nii
+NMI: 1.1092
+ECC: 0.7783
+ICE: 0.0374
+------------------------------
+Fixed Image: registered_rigid_precontrast_23-TR-0131_pretreatment_to_arterial_23-TR-0131_pretreatment.nii
+Moving Image: arterial_23-TR-0131_posttreatment.nii
+NMI: 1.0892
+ECC: 0.5838
+ICE: 0.0087
+------------------------------
+Fixed Image: registered_rigid_precontrast_23-TR-0131_pretreatment_to_delayed_23-TR-0131_pretreatment.nii
+Moving Image: delayed_23-TR-0131_posttreatment.nii
+NMI: 1.1005
+ECC: 0.6957
+ICE: 0.0593
+------------------------------
+Fixed Image: registered_rigid_precontrast_23-TR-0131_pretreatment_to_portalvenous_23-TR-0131_pretreatment.nii
+Moving Image: portalvenous_23-TR-0131_posttreatment.nii
+NMI: 1.0956
+ECC: 0.6839
+ICE: 0.0732
+------------------------------
+Fixed Image: registered_rigid_precontrast_23-TR-0139_pretreatment_to_arterial_23-TR-0139_pretreatment.nii
+Moving Image: arterial_23-TR-0139_posttreatment.nii
+NMI: 1.0969
+ECC: 0.6430
+ICE: 0.0459
+------------------------------
+Fixed Image: registered_rigid_precontrast_23-TR-0139_pretreatment_to_delayed_23-TR-0139_pretreatment.nii
+Moving Image: delayed_23-TR-0139_posttreatment.nii
+NMI: 1.0974
+ECC: 0.6810
+ICE: 0.0790
+------------------------------
+Fixed Image: registered_rigid_precontrast_23-TR-0139_pretreatment_to_portalvenous_23-TR-0139_pretreatment.nii
+Moving Image: portalvenous_23-TR-0139_posttreatment.nii
+NMI: 1.0884
+ECC: 0.6125
+ICE: 0.0735
+------------------------------
+Fixed Image: registered_rigid_precontrast_23-TR-0240_pretreatment_to_arterial_23-TR-0240_pretreatment.nii
+Moving Image: arterial_23-TR-0240_posttreatment.nii
+NMI: 1.0860
+ECC: 0.5824
+ICE: 0.0567
+------------------------------
+Fixed Image: registered_rigid_precontrast_23-TR-0240_pretreatment_to_delayed_23-TR-0240_pretreatment.nii
+Moving Image: delayed_23-TR-0240_posttreatment.nii
+NMI: 1.0875
+ECC: 0.6371
+ICE: 0.0583
+------------------------------
+Fixed Image: registered_rigid_precontrast_23-TR-0240_pretreatment_to_portalvenous_23-TR-0240_pretreatment.nii
+Moving Image: portalvenous_23-TR-0240_posttreatment.nii
+NMI: 1.0961
+ECC: 0.6931
+ICE: 0.0620
+------------------------------
+Fixed Image: registered_rigid_precontrast_23-TR-0262_pretreatment_to_arterial_23-TR-0262_pretreatment.nii
+Moving Image: arterial_23-TR-0262_posttreatment.nii
+NMI: 1.0873
+ECC: 0.6823
+ICE: 0.0898
+------------------------------
+Fixed Image: registered_rigid_precontrast_23-TR-0262_pretreatment_to_delayed_23-TR-0262_pretreatment.nii
+Moving Image: delayed_23-TR-0262_posttreatment.nii
+NMI: 1.0844
+ECC: 0.7032
+ICE: 0.1027
+------------------------------
+Fixed Image: registered_rigid_precontrast_23-TR-0262_pretreatment_to_portalvenous_23-TR-0262_pretreatment.nii
+Moving Image: portalvenous_23-TR-0262_posttreatment.nii
+NMI: 1.0870
+ECC: 0.6846
+ICE: 0.0807
+------------------------------
+Fixed Image: registered_rigid_precontrast_23-TR-0267_pretreatment_to_arterial_23-TR-0267_pretreatment.nii
+Moving Image: arterial_23-TR-0267_posttreatment.nii
+NMI: 1.0791
+ECC: 0.5131
+ICE: 0.0620
+------------------------------
+Fixed Image: registered_rigid_precontrast_23-TR-0267_pretreatment_to_portalvenous_23-TR-0267_pretreatment.nii
+Moving Image: portalvenous_23-TR-0267_posttreatment.nii
+NMI: 1.0803
+ECC: 0.6718
+ICE: 0.1007
+------------------------------
+Fixed Image: registered_rigid_precontrast_23-TR-0281_pretreatment_to_arterial_23-TR-0281_pretreatment.nii
+Moving Image: arterial_23-TR-0281_posttreatment.nii
+NMI: 1.0910
+ECC: 0.6826
+ICE: 0.0603
+------------------------------
+Fixed Image: registered_rigid_precontrast_23-TR-0281_pretreatment_to_delayed_23-TR-0281_pretreatment.nii
+Moving Image: delayed_23-TR-0281_posttreatment.nii
+NMI: 1.0918
+ECC: 0.6435
+ICE: 0.0806
+------------------------------
+Fixed Image: registered_rigid_precontrast_23-TR-0281_pretreatment_to_portalvenous_23-TR-0281_pretreatment.nii
+Moving Image: portalvenous_23-TR-0281_posttreatment.nii
+NMI: 1.0923
+ECC: 0.6501
+ICE: 0.0741
+------------------------------
+Fixed Image: registered_rigid_precontrast_23-TR-0331_pretreatment_to_arterial_23-TR-0331_pretreatment.nii
+Moving Image: arterial_23-TR-0331_posttreatment.nii
+NMI: 1.1324
+ECC: 0.7997
+ICE: 0.0751
+------------------------------
+Fixed Image: registered_rigid_precontrast_23-TR-0331_pretreatment_to_delayed_23-TR-0331_pretreatment.nii
+Moving Image: delayed_23-TR-0331_posttreatment.nii
+NMI: 1.1456
+ECC: 0.8097
+ICE: 0.0791
+------------------------------
+Fixed Image: registered_rigid_precontrast_23-TR-0331_pretreatment_to_portalvenous_23-TR-0331_pretreatment.nii
+Moving Image: portalvenous_23-TR-0331_posttreatment.nii
+NMI: 1.1533
+ECC: 0.8209
+ICE: 0.0720
+------------------------------

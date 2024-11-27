@@ -1,0 +1,3 @@
+portalvenous_23-TR-0331_pretreatment.niiNMI: 1.194797e+00
+ECC: 0.81
+ICE: 1.175849e-02
